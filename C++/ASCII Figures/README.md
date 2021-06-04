@@ -1,4 +1,4 @@
-# Portfolio
+# ASCII Figures API
 
 -PL- 🇵🇱
 Ten projekt realizuje zadanie przedstawione w pliku pfd. Tworzy on interfejs programistyczny do wyświetlania kół, trójkątów oraz równoległoboków w kosoli.
