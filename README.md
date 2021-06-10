@@ -1,7 +1,7 @@
 # Portfolio
 
 -PL- 🇵🇱
-Tu znajdują się moje projekty wykonane od dnia 04/06/2021.
+Witaj w moim portfolio! Tu znajdziesz moje projekty wykonane od dnia 04-06-2021.
 
 -EN- 🇬🇧
-This repository contains projects made from 04/06/2021.
+Welcome to my portfolio! Here you will find my best projects made from 2021-06-04.
