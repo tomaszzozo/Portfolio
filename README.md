@@ -2,7 +2,7 @@
 
 -PL- 🇵🇱
 Ten projekt to gra w kółko i krzyżyk na ekranie konsoli z udziałem sztucznej inteligencji. AI korzysta tutaj z algorytmu MiniMax dodatkowo wzbogaconego o własną implementację alfa-beta cięć dostosowaną do stworzonej własnoręcznie klasy drzewa stanów. Dodatkowo gracz może wybrać rozmiar planszy do gry oraz rozmiar pojedyńczego miejsca na symbol.
-Aby zkompilować pliki, otwórz terminal w repozytorium i wpisz komendę:
+Aby skompilować pliki, otwórz terminal w repozytorium i wpisz komendę:
 
 g++ -std=c++14 \*.cpp -o TicTacToe
 
